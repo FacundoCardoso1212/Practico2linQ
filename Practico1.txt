@@ -1,0 +1,41 @@
+	Practica 1.
+
+Ejercicio 1)- Complejidad cognitiva : 4.
+----------------------------------------
+Ejercicio 2)- Complejidad cognitiva : 1.
+----------------------------------------
+Ejercicio 3)- Complejidad cognitiva : 2.
+----------------------------------------
+Ejercicio 4)- Complejidad cognitiva : 5.
+----------------------------------------
+Ejercicio 5)- Complejidad cognitiva : 5.
+----------------------------------------
+Ejercicio 6)- Complejidad cognitiva : 5.
+----------------------------------------
+Ejercicio 7)- Complejidad cognitiva : 3.
+----------------------------------------
+Ejercicio 8)- Complejidad cognitiva : 3.
+----------------------------------------
+Ejercicio 9)- Complejidad cognitiva : 2.
+----------------------------------------
+Ejercicio 10)- Complejidad cognitiva :6.
+----------------------------------------
+Ejercicio 11)- Complejidad cognitiva : 1.
+----------------------------------------
+Ejercicio 12)- Complejidad cognitiva : 2.
+----------------------------------------
+Ejercicio 13)- Complejidad cognitiva : 4.
+----------------------------------------
+Ejercicio 14)- Complejidad cognitiva : 1.
+----------------------------------------
+Ejercicio 15)- Complejidad cognitiva : 1.
+----------------------------------------
+Ejercicio 16)- Complejidad cognitiva : 3.
+----------------------------------------
+Ejercicio 17)- Complejidad cognitiva : 3.
+----------------------------------------
+Ejercicio 18)- Complejidad cognitiva : 1.
+-----------------------------------------
+
+
+
